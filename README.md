@@ -1,2 +1,2 @@
-# modelo-dissertacao-latex-ppgi-ufal
-Modelo de dissertação escrito em LaTeX para ser utilizado pelos alunos do Programa de Pós-Graduação em Informática (PPGI) da UFAL. Aceito pela Biblioteca Central.
+# modelo-dissertacao-ufal-latex
+Modelo de dissertação escrito em LaTeX para ser utilizado pelos alunos dos Programas de Pós-Graduação da Universidade Federal de Alagoas (UFAL). Aceito pela Biblioteca Central.
